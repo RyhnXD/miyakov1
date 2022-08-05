@@ -27,14 +27,6 @@ const defaultMenu = {
 %m2 *Total Xp:* %totalexp
 %m3
 
-%m1 *T O D A Y*
-%m2 *%ucpn*
-%m2 *Days:* %week %weton
-%m2 *Date:* %date
-%m2 *Islamic Date:* %dateIslamic
-%m2 *Time:* %wib
-%m3
-
 %m1 *I N F O*
 %m2 *Bot Name:* %me
 %m2 *Mode:* %mode
@@ -42,7 +34,7 @@ const defaultMenu = {
 %m2 *Type:* Node.Js
 %m2 *Baileys:* Multi Device
 %m2 *Prefix:* [ *%_p* ]
-%m2 *Uptime:* %muptime
+%m2 *Runtime:* %muptime
 %m2 *Database:* %rtotalreg dari %totalreg
 %m3
 
