@@ -9,6 +9,9 @@ import os from 'os'
 import fs from 'fs'
 import fetch from 'node-fetch'
 
+let fdoc = {quoted:{key : {participant : '0@s.whatsapp.net'},message: {documentMessage: {title: `${command}`}}}}
+let frep = { quoted: fgif, contextInfo: { externalAdReply: { showAdAttribution: true,romnst defaultMenu = {
+
 const defaultMenu = {
   before: `
 %dash
