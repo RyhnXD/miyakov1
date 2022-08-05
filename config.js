@@ -315,8 +315,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 
 /*============== LOGO ==============*/
 global.thumbnail = 'https://telegra.ph/file/70942aad58eb6091c4fdb.jpg'
-global.thumb = 'https://telegra.ph/file/88a8f5342fd1a2a40faf9.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/88a8f5342fd1a2a40faf9.jpg'
+global.thumb = 'https://telegra.ph/file/96824bf9af8290144c32d.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/96824bf9af8290144c32d.jpg'
 global.thumbbc = 'https://telegra.ph/file/70942aad58eb6091c4fdb.jpgast' //For broadchttps://telegra.ph/file/caa111869b8abcb8e8678.jpgast
 global.giflogo = 'https://telegra.ph/file/c51d3b14d71b16f75a12e.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
