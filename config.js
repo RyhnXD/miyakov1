@@ -314,11 +314,11 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 
 /*============== LOGO ==============*/
-global.thumbnail = 'https://telegra.ph/file/70942aad58eb6091c4fdb.jpg'
-global.thumb = 'https://telegra.ph/file/96824bf9af8290144c32d.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/96824bf9af8290144c32d.jpg'
-global.thumbbc = 'https://telegra.ph/file/70942aad58eb6091c4fdb.jpgast' //For broadchttps://telegra.ph/file/caa111869b8abcb8e8678.jpgast
-global.giflogo = 'https://telegra.ph/file/c51d3b14d71b16f75a12e.jpg'
+global.thumbnail = 'https://telegra.ph/file/04012986020f8fed15131.jpg'
+global.thumb = 'https://telegra.ph/file/04012986020f8fed15131.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/04012986020f8fed15131.jpg'
+global.thumbbc = 'https://telegra.ph/file/d0d1c03fece63364efc2f.jpgast' //For broadchttps://telegra.ph/file/caa111869b8abcb8e8678.jpgast
+global.giflogo = 'https://telegra.ph/file/d0d1c03fece63364efc2f.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.flaaa = [
 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=',
