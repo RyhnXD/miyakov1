@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/e86be58bc09dfba470cbc.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/d0d1c03fece63364efc2f.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">ZukaV2</h1>
 <p align="center">
@@ -23,7 +23,7 @@
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6283174508962">
+  <a href="https://wa.me/62895627514070">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@lampu_slebew">
