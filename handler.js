@@ -551,7 +551,7 @@ esteh: 0,
                 if (!('isBanned' in chat))
                     chat.isBanned = false
                 if (!('welcome' in chat))
-                    chat.welcome = true
+                    chat.welcome = false
                 if (!('detect' in chat))
                     chat.detect = false
                 if (!('sWelcome' in chat))
@@ -565,7 +565,7 @@ esteh: 0,
                 if (!('delete' in chat))
                     chat.delete = true
                 if (!('antiLink' in chat))
-                    chat.antiLink = false
+                    chat.antiLink = true
                 if (!('antiSticker' in chat)) 
                     chat.antiSticker = false
                 if (!('viewonce' in chat))
@@ -583,14 +583,14 @@ esteh: 0,
             } else
                 global.db.data.chats[m.chat] = {
                     isBanned: false,
-                    welcome: true,
+                    welcome: falsetto ,
                     detect: false,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
-                    antiLink: false,
+                    antiLink: true,
                     antiSticker: false,
                     viewonce: false,
                     antiToxic: true,
