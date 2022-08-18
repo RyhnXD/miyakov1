@@ -43,17 +43,17 @@ global.psaweria = '-'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281779211748'
-global.nomorown = '6289524208209'
+global.nomorown = '62895627514070'
 global.namebot = 'sᴀᴋᴜʀᴀ ᴍᴀᴛᴏᴜ'
 global.nameown = 'ʀɪᴍᴜʀᴜ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6289524208209'],
-  ['6289524208209'],
+  ['62895627514070'],
+  ['62895627514070'],
   ['6281779211748'],
-  ['6289524208209', 'ʀᴀʏʜɴ', true]
+  ['62895627514070', 'ʀᴀʏʜɴ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -105,7 +105,7 @@ global.apikeys = keyalpha
 /*============== WATERMARK ==============*/
 global.wm = '                「 sᴀᴋᴜʀᴀ ᴍᴀᴛᴏᴜ」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘sᴀᴋᴜʀᴀ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ғᴀᴀ'
+global.wm3 = 'ʜᴀɴᴢ'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ ʀᴘɢ ᴡʜᴀᴛsᴀᴘᴘ ᴍᴀᴅᴇ ʙʏ ʜᴀɴᴢ'
